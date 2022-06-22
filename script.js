@@ -1,6 +1,13 @@
 function openNav() 
 {
-  document.getElementById("mySidenav").style.width = "30%";
+	if(screen.width<=450)
+	{
+		document.getElementById("mySidenav").style.width = "50%";
+	}
+	else
+	{
+		document.getElementById("mySidenav").style.width = "25%";
+	}
 }
 
 function closeNav() 

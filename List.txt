@@ -1,0 +1,47 @@
+dot NET Framework
+Algorithms
+Android
+Angular 2+
+Angular JS
+Bash
+C
+C++
+C#
+CSS
+Entity Framework
+Excel VBA
+Git
+Haskell
+Hibernate
+HTML5
+HTML5 Canvas
+iOS Developer
+Java
+Javascript
+jQuery
+Kotlin
+LaTeX
+Linux
+MATLAB
+Microsoft SQL Server
+MongoDB
+MySQL
+Node.js
+Objective-C#Oracle Database
+Perl
+PHP
+PostgreSQL
+Powershell
+Python
+R
+React JS
+React Native
+Ruby
+Ruby on Rails
+Spring Framework
+SQL
+Swift
+Typescript
+VBA
+Visual Basic dot NET
+Xamarin Forms

@@ -3,7 +3,12 @@ body
 	font-family: verdana;
 	line-height:125%;
 	font-size:16px;
-	width:100%;
+	width:99%;
+}
+
+.header
+{
+	text-align:center;
 }
 
 .main img
@@ -91,7 +96,7 @@ a:hover img
 
 .tb
 {
-	width:100%;
+	width:80%;
 	text-align:center;
 	table-layout:fixed;
 }
@@ -198,6 +203,12 @@ a:hover img
 {
 	.sidenav {padding-top: 15px;}
 	.sidenav a {font-size: 18px;}
+}
+
+@media screen and (max-width: 450px)
+{
+	.main { margin-top: 125px; }
+	.header { line-height:1.25; }
 }
 
 .sidenav::-webkit-scrollbar
