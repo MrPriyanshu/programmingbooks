@@ -1,11 +1,7 @@
 body
 {
 	line-height:125%;
-}
-
-.navbar .sidenav
-{
-	font-family:'Montserrat', sans-serif;
+	font-family:'Montserrat', verdana, sans-serif;
 }
 
 .header
@@ -33,7 +29,6 @@ body
 	border-radius:8px;
 	transition:0.4s;
 	font-size:18px;
-	font-family: 'Poppins', sans-serif;
 }
 
 .button:hover
@@ -96,7 +91,6 @@ a:hover img
 .main
 {
 	margin-top:100px;
-	font-family:'Lato', sans-serif;
 }
 
 .tb
@@ -128,7 +122,7 @@ a:hover img
 .tooltip .tooltiptext
 {
 	bottom:100%;
-	left:0%;
+	left:50%;
 	margin-left:-60x;
 	visibility:hidden;
 	width: 240px;
@@ -217,6 +211,7 @@ a:hover img
 	.header { line-height:1.25; }
     .button { width:80%; }
 	.tb a:hover { line-height:150%;}
+	.tooltip .tooltiptext { left:-10%; }
 }
 
 .sidenav::-webkit-scrollbar
